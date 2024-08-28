@@ -29,9 +29,11 @@ To combine video files located in /home/s186/Music/video and save the output to 
     output_folder = "/home/s186/Documents/data_collection_testbed"
     output_filename = "combined_video.mp4"
     combine_videos(input_folder, output_folder, output_filename)
+    
 **Notes**
 The script assumes all files in the input folder with an .mp4 extension are valid video files.
 If there are no .mp4 files in the input folder, the script will not create any output.
+
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -41,4 +43,4 @@ Feel free to contribute by submitting issues or pull requests.
 
 
 
-  Make sure to adjust the content if you have any additional details or specific instructions you want to include!
+        Make sure to adjust the content if you have any additional details or specific instructions you want to include!
